@@ -68,3 +68,14 @@ On peut soit:
     `C:\Program Files\Microsoft SQL Server\MSSQL13.MSSQLSERVER\MSSQL\Log\ERRORLOG`
 
 # Utilisation de SQL Server Management Studio
+# SQL server Management Studio
+On peut soit:
+- 1 All Programs / Microsoft SQL Server / SQL Server Management Studio
+- 2 Run / SSMS.exe / OK
+- 3 1ere dialog box:
+  - *Server Type* : le plus souvent : Database engine
+  - *Server name* : *127.0.0.1* or *(local)* or *.* (oui dot)
+  - *authentification*: depend des options d'installation. Windows authentification
+  - click *Connect*
+  
+  - Si on arrive à se connecter dans le panneau de gauche on doit avoir une ligne *databases*
